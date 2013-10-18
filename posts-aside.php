@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: VZ Aside
-Plugin URI: http://paceco.com
+Plugin Name: Posts Aside
+Plugin URI: http://github.com/weatheredwatcher/wp-posts-asides
 Description: An easy method of creating aside code in posts
 Version: 1.0
 Author: David Duggins
